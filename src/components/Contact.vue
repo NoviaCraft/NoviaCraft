@@ -11,15 +11,15 @@
             Parlez-nous de votre besoin
           </h2>
           <p class="mt-4 text-lg leading-relaxed text-gray-600">
-            Décrivez votre projet (site, app web, data, IA ou CRM). On revient vers vous avec une première recommandation et une estimation.
+            Décrivez un besoin précis. On vous propose un cadrage clair, puis une solution adaptée à votre usage.
           </p>
 
           <div class="mt-8 rounded-2xl bg-white p-6 shadow-sm">
             <p class="text-sm font-semibold text-gray-950">Ce qu'on vous demande</p>
             <ul class="mt-3 space-y-2 text-sm text-gray-600">
-              <li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600" />Objectif + contexte</li>
-              <li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600" />Délais souhaités</li>
-              <li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600" />Budget (même approximatif)</li>
+              <li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600" />Objectif mesurable + contexte</li>
+              <li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600" />Données disponibles (ou à collecter)</li>
+              <li class="flex gap-3"><span class="mt-2 h-1.5 w-1.5 rounded-full bg-emerald-600" />Délais et budget</li>
             </ul>
           </div>
         </div>
@@ -80,7 +80,7 @@
                   id="message"
                   rows="6"
                   class="mt-2 w-full rounded-xl border border-gray-300 bg-white px-4 py-3 text-sm text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-emerald-500"
-                  placeholder="Contexte, objectif, fonctionnalités, délais..."
+                  placeholder="Contexte, objectif mesurable, données disponibles, délais..."
                 ></textarea>
               </div>
 

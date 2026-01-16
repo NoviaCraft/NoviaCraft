@@ -12,7 +12,7 @@
           </h2>
           <p class="mt-4 text-lg leading-relaxed text-gray-600">
             Raphaëlle apporte la rigueur data/IA et la créativité. Mickael construit des produits web fiables et rapides.
-            Ensemble, on livre des solutions propres, maintenables et orientées résultats.
+            Ensemble, on conçoit des outils dédiés à un usage précis, pas des promesses générales.
           </p>
 
         </div>
@@ -43,7 +43,7 @@
             <div class="group rounded-3xl bg-white/85 p-6 shadow-sm ring-1 ring-gray-200/70 backdrop-blur transition hover:-translate-y-1 hover:shadow-md">
               <div class="flex items-center justify-between">
                 <div>
-                  <p class="text-base font-semibold text-gray-950">Mickael Rebeu</p>
+                  <p class="text-base font-semibold text-gray-950">Mickael Rébeau</p>
                   <p class="mt-1 text-sm text-gray-600">Co-fondateur · Web (front/back)</p>
                 </div>
                 <div class="rounded-2xl bg-sky-50 p-3 text-sky-700 shadow-sm">
@@ -62,7 +62,7 @@
             <div class="md:col-span-2 rounded-3xl bg-white/85 p-6 shadow-sm ring-1 ring-gray-200/70 backdrop-blur">
               <p class="text-xs font-semibold uppercase tracking-[0.2em] text-gray-500">Notre mission</p>
               <p class="mt-3 text-sm leading-relaxed text-gray-600">
-                Transformer vos idées en produits digitaux utiles : un design solide, des choix techniques clean, et une exécution qui tient dans le temps.
+                Partir d'un besoin concret, cadrer l'usage, livrer un outil stable que vos équipes utilisent vraiment.
               </p>
             </div>
           </div>

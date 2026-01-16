@@ -10,7 +10,8 @@
           Du concret, livré et en ligne
         </h2>
         <p class="mt-4 text-lg leading-relaxed text-gray-600">
-          Deux projets web (2 portfolios) et une application mobile. Cliquez sur un projet pour voir l'aperçu. D'autres solutions ont été en privé pour des entreprises, contactez-nous pour en discuter ! 
+          Quelques livrables visibles. Pour les projets internes ou privés, on partage le détail sur demande.
+          Cliquez sur un projet pour l'aperçu.
         </p>
       </div>
 
@@ -213,9 +214,9 @@ const projects: Project[] = [
   {
     id: 'todo',
     kind: 'App mobile',
-    name: 'To-Do List',
-    description: 'Démo en screenshots : navigation simple, listes de tâches et interactions rapides.',
-    tags: ['Mobile', 'UI/UX', 'Productivité', 'To-do'],
+    name: 'Organisateur de tâches',
+    description: 'Organisateur personnel : routines, priorités et suivi rapide des actions.',
+    tags: ['Mobile', 'Organisation', 'Productivité', 'UX'],
     preview: 'carousel',
   },
 ];

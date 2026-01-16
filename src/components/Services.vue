@@ -7,10 +7,11 @@
           Services
         </p>
         <h2 class="mt-4 text-4xl font-semibold tracking-tight text-gray-950 sm:text-5xl leading-tight">
-          Un accompagnement complet, du design à la mise en production
+          Transformer un besoin précis en outil concret
         </h2>
         <p class="mt-4 text-lg leading-relaxed text-gray-600">
-          Nous construisons des expériences web propres et des solutions data et d'intelligence artificielle exploitables, avec une attention particulière à la performance et à la clarté.
+          On clarifie l'objectif, on conçoit la solution, puis on livre un produit utilisable par vos équipes.
+          Pas de promesses vagues : un outil dédié, mesurable et maintenable.
         </p>
       </div>
 
@@ -24,7 +25,7 @@
           </div>
           <h3 class="mt-5 text-lg font-semibold text-gray-950">Sites Web</h3>
           <p class="mt-2 text-sm leading-relaxed text-gray-600">
-            Sites vitrines et landing pages orientés design, SEO et performance.
+            Vitrine claire pour vendre : structure, preuve sociale, SEO et performance.
           </p>
         </div>
 
@@ -39,7 +40,7 @@
           </div>
           <h3 class="mt-5 text-lg font-semibold text-gray-950">Applications Web</h3>
           <p class="mt-2 text-sm leading-relaxed text-gray-600">
-            Dashboards, outils internes, CRM, SaaS : produits stables et scalables.
+            Outils internes, portails clients, CRM, SaaS : flux simples et fiables.
           </p>
         </div>
 
@@ -53,7 +54,7 @@
           </div>
           <h3 class="mt-5 text-lg font-semibold text-gray-950">Intelligence Artificielle</h3>
           <p class="mt-2 text-sm leading-relaxed text-gray-600">
-            POC, prétraitement des données, intégration, automatisation : une intelligence artificielle utile, mesurable et maintenable.
+            Modèles dédiés (vision, NLP, scoring) + intégration dans vos outils.
           </p>
         </div>
 
@@ -66,7 +67,7 @@
           </div>
           <h3 class="mt-5 text-lg font-semibold text-gray-950">Analyse de données</h3>
           <p class="mt-2 text-sm leading-relaxed text-gray-600">
-            Nettoyage, dashboards, KPI et recommandations pour décider plus vite.
+            Pipelines, qualité des données, dashboards et KPI exploitables.
           </p>
         </div>
       </div>

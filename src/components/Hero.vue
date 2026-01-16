@@ -18,14 +18,14 @@
               NovIACraft
             </span>
             <span class="block">
-              Des produits
+              Des outils
               <span class="text-emerald-600"> web & IA</span>
-              complets et prêts à l'emploi.
+              pensés pour un besoin précis.
             </span>
           </h1>
           <p class="max-w-2xl text-lg leading-relaxed text-gray-600">
-            Sites, applications, solutions data et d'intelligence artificielle.
-            Une exécution propre, une performance solide et des résultats mesurables.
+            On part d'un problème métier, on conçoit l'outil dédié et on livre un produit stable.
+            Web, mobile, data ou IA : une exécution claire, mesurable et maintenable.
           </p>
 
           <div class="flex flex-col gap-3 sm:flex-row">
@@ -105,9 +105,9 @@
 import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 
 const stats = [
-  { label: 'Clients', value: '6', caption: 'Accompagnés avec succès' },
-  { label: 'Produits livrés', value: '5', caption: 'Projets menés de bout en bout' },
-  { label: 'Nos produits', value: '1', caption: 'Solutions maison prêtes à déployer' },
+  { label: 'Clients', value: '6', caption: 'Projets cadrés et livrés' },
+  { label: 'Produits livrés', value: '5', caption: 'Outils déployés en prod' },
+  { label: 'Nos produits', value: '1', caption: 'CRM maison en évolution' },
 ]
 
 const currentIndex = ref(0)

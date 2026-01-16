@@ -11,8 +11,8 @@
             CRM NovIACraft
           </h2>
           <p class="mt-4 text-lg leading-relaxed text-gray-600">
-            Un CRM personalisable, simple d'utilisation, rapide, à coût unique et flexible : pipeline clair, suivi des opportunités et reporting.
-            Conçu pour les équipes qui veulent une vue nette et des actions concrètes.
+            CRM personnalisable, rapide et simple à prendre en main : pipeline, suivi des opportunités et reporting.
+            Pensé pour les équipes sans dev interne, avec un coût unique et des évolutions possibles.
           </p>
 
           <div class="mt-8 grid gap-3 sm:grid-cols-2">
